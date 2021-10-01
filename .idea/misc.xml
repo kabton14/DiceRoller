@@ -3,6 +3,11 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="app/src/main/res/drawable/dice_4.xml" value="0.1734375" />
+        <entry key="app/src/main/res/drawable/dice_5.xml" value="0.1734375" />
+        <entry key="app/src/main/res/drawable/dice_6.xml" value="0.1734375" />
+        <entry key="app/src/main/res/drawable/empty_dice.xml" value="0.1734375" />
+        <entry key="app/src/main/res/drawable/ic_launcher_background.xml" value="0.1" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.7029702970297029" />
       </map>
     </option>
